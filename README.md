@@ -1,11 +1,12 @@
 # Reconfigurable Intelligent Surfaces-Enabled Intra-Cell Pilot Reuse in Massive MIMO Systems
 
 This a simulation code used to generate the results of the following research article:
-José Carlos Marinello Filho, Taufik Abrão, Ekram Hossain, and Amine Mezghani. "Reconfigurable Intelligent Surfaces-Enabled Intra-Cell Pilot Reuse in Massive MIMO Systems".
 
-A pre-print version of this article is available at: https://arxiv.org/abs/2310.06975. The article is also under review for possible publication in IEEE Transactions on Wireless Communications.
+José Carlos Marinello Filho, Taufik Abrão, Ekram Hossain, and Amine Mezghani. "Reconfigurable Intelligent Surfaces-Enabled Intra-Cell Pilot Reuse in Massive MIMO Systems," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3362517.
 
-I hope this content helps in your research and contributes to developing the technology, according to the principles of open science. I also encourage you to perform reproducible research as well.
+A pre-print version of this article is available at: https://arxiv.org/abs/2310.06975.
+
+I hope this content helps in your research and contributes to developing the technology according to the principles of open science. I also encourage you to perform reproducible research as well.
 
 If you have any questions and if you have encountered any inconsistency, please do not hesitate to contact me: zecarlos.ee@gmail.com.
 
